@@ -8,4 +8,4 @@ Essa skin é baseada no Fba4droid e no Kawaks, sendo adaptado os ícones dos doi
 Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos ícones para usar no Fba4droid adaptando ao sistema do aplicativo, e também pode usar os ícones em qualquer emulador de sua preferência que suporte skin com ícones em imagem
 
 » **Click no QR Code para o download da skin**
-[![Texto Alternativo](https://github.com/user-attachments/assets/d2206cfc-5a64-4459-ac27-64bc38705879)](https://www.mediafire.com/file/38247i587wllob6/Skin_-_Fbakdroid_Dark.zip/file)
+[![Texto Alternativo](https://github.com/user-attachments/assets/d7e19260-0331-4f7e-9568-180c5f6751f8)](https://www.mediafire.com/file/38247i587wllob6/Skin_-_Fbakdroid_Dark.zip/file)
