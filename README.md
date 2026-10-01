@@ -1,7 +1,6 @@
 
 » **Skin - Fbakdroid Dark**
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c6e8beda-3e2b-415b-a758-1a6b573f1031" />
-Essa é uma skin para nós fãs, livre para uso, gratuita sem fins lucrativos
 
 Essa skin é baseada no Fba4droid e no Kawaks, sendo adaptado os ícones dos dois emuladores, tornando uma única skin na versão dark com mais qualidade e alguns novos ícones
 
