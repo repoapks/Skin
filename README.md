@@ -25,13 +25,18 @@ Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos
 
 
 
-Skin - Playbox / Disponível em breve...
+» **Skin - Playbox**
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a9ef4fb5-4095-4255-b035-52af60e92aae" />
 
+» **Disponível em breve...**
 <img width="4200" height="2400" alt="Image" src="https://github.com/user-attachments/assets/c8026428-30ad-4603-988b-9725a7264237" />
 
 
-Skin - Dark 1.0 / Disponível em breve...
+» **Skin - Dark 1.0**
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a5f836ff-71ed-484f-88a7-d4de1085f28c" />
+Essa skin foi adaptada por Del Freitas na versão dark, sendo inspirada na skin aca neogeo
 
+Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos ícones para usar no Fba4droid adaptando ao sistema do aplicativo, e também pode usar os ícones em qualquer emulador de sua preferência que suporte skin com ícones em imagem
+
+» **Disponível em breve...**
 <img width="4200" height="2400" alt="Image" src="https://github.com/user-attachments/assets/eddf5fa2-0af5-427c-8a75-181dbaf3b2bf" />
