@@ -22,3 +22,8 @@ Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos
 
 » **Download em breve**: 01/11/2026
 <img width="4200" height="2400" alt="Image" src="https://github.com/user-attachments/assets/76d8b1a1-777b-4449-82cb-b0914d006e11" />
+
+
+
+**Skin - Playbox / Download em breve...**
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/9433e05e-24d2-4755-9743-0f40b2a36085" />
