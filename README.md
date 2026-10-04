@@ -4,7 +4,7 @@
 
 Essa skin é baseada no Fba4droid e no Kawaks, sendo adaptado os ícones dos dois emuladores, tornando uma única skin na versão dark com mais qualidade e alguns novos ícones
 
-Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos ícones para usar no Fba4droid adaptando ao sistema do aplicativo, e também pode usar os ícones em qualquer emulador de sua preferência que suporte skin com ícones em imagem
+Essa versão é adaptada por Del Freitas e usada no Emulador Kawaks, porém você pode ajustar os nomes dos ícones para usar no Fba4droid adaptando ao sistema do aplicativo, e também pode usar os ícones em qualquer emulador de sua preferência que suporte skin com ícones em imagem
 
 » **Click no QR Code para o download da skin**
 [![Texto Alternativo](https://github.com/user-attachments/assets/d7e19260-0331-4f7e-9568-180c5f6751f8)](https://www.mediafire.com/file/38247i587wllob6/Skin_-_Fbakdroid_Dark.zip/file)
