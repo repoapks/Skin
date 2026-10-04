@@ -25,11 +25,11 @@ Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos
 
 
 
-Skin - Playbox / Download em breve...
+Skin - Playbox / Disponível em breve...
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/9433e05e-24d2-4755-9743-0f40b2a36085" />
 
 
 
 
-Skin - Dark 1.0 / Download em breve...
+Skin - Dark 1.0 / Disponível em breve...
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a5f836ff-71ed-484f-88a7-d4de1085f28c" />
