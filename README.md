@@ -27,6 +27,11 @@ Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos
 
 » **Skin - Playbox**
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a9ef4fb5-4095-4255-b035-52af60e92aae" />
+Essa skin foi adaptada por Del Freitas, utilizando os ícones do criador RobTheFiveNine
+Essa skin é baseada no Playstation e no Xbox
+
+Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos ícones para usar no Fba4droid adaptando ao sistema do aplicativo, e também pode usar os ícones em qualquer emulador de sua preferência que suporte skin com ícones em imagem
+
 
 » **Disponível em breve...**
 <img width="4200" height="2400" alt="Image" src="https://github.com/user-attachments/assets/c8026428-30ad-4603-988b-9725a7264237" />
