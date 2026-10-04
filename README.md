@@ -26,7 +26,7 @@ Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos
 
 
 Skin - Playbox / Disponível em breve...
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/9433e05e-24d2-4755-9743-0f40b2a36085" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a9ef4fb5-4095-4255-b035-52af60e92aae" />
 
 
 
