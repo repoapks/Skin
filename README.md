@@ -13,9 +13,17 @@ Essa versão é adaptada por Del Freitas e usada no Emulador Kawaks, porém voc�
 
 
 
+» **Skin - Playstation**  
+<img width="1384" height="768" alt="Image" src="https://github.com/user-attachments/assets/b30189b6-a812-4d22-8969-21e9a04a3b17" />
+**Versão Edward Seville** 👉🏻[Download](https://youtu.be/A912X7A5ndU?is=yv3WVTGGZKEFXPse)
+
+
+
+
+
 » **Skin - Playstation Dark**
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/69096bd1-4a01-49a3-b6a9-66b21043246d" />
-Link da versão do Edward Seville 👉🏻[Playstation](https://youtu.be/A912X7A5ndU?is=yv3WVTGGZKEFXPse)
+**Versão Del Freitas**
 
 Esta skin foi originalmente adaptada por Edward Seville e recebeu uma segunda versão editada por Del Freitas, que alterou alguns ícones, tornando-a completamente Dark
 
