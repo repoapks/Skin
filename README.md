@@ -72,11 +72,15 @@ Para quem conhece o emulador Kawaks, as cores secundárias são da cor  laranja,
 
 
 
+» **Skin - Kawaks Dark**
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/91adcfcf-6301-4862-b2ac-a995d3ad6152" />
+Essa skin é a própria skin do emulador Kawaks, porém com as cores secundárias preta combinando com a alavanca dpad 
+
+Para quem conhece o emulador Kawaks, as cores secundárias são da cor  laranja, e a cor da alavanca dpad é vermelha, eu adaptei a cores secundárias para preto e a cor da alavanca dpad também, e melhorei um pouco a qualidade dos icones
 
 
-
-
-
+» **Disponível em breve...**
+<img width="4200" height="2400" alt="Image" src="https://github.com/user-attachments/assets/00ca528e-1f51-4d52-989c-7b1296b67996" />
 
 
 
