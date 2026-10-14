@@ -83,6 +83,24 @@ Para quem conhece o emulador Kawaks, as cores secundárias são da cor  laranja,
 
 
 
+» **Skin - Cocav** 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d3f0ebc5-f580-41a3-a567-23f583b776dd" />
+Essa skin é do emulador cocav, porem adaptada por Del Freitas para o emulador kawaks, ajustando a skin e adicionando alguns novos ícones 
+
+Essa versão é usada no Emulador Kawaks, porém você pode ajustar os nomes dos ícones para usar no Fba4droid adaptando ao sistema do aplicativo, e também pode usar os ícones em qualquer emulador de sua preferência que suporte skin com ícones em imagem
+
+» **Disponível em breve...**
+<img width="4200" height="2400" alt="Image" src="https://github.com/user-attachments/assets/7a76395d-0d5b-45cc-a819-f913aee0c1ee" />
+
+
+
+
+
+
+
+
+
+
 
 
 
