@@ -13,7 +13,7 @@ Essa versão é adaptada por Del Freitas e usada no Emulador Kawaks, porém voc�
 
 
 
-» **Skin - Playstation / Edward Seville** [Download](https://youtu.be/A912X7A5ndU?is=yv3WVTGGZKEFXPse)
+» **Skin - Playstation / Edward Seville** [Visualizar](https://youtu.be/A912X7A5ndU?is=yv3WVTGGZKEFXPse)
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/2a5f8448-0d87-447e-af55-cd7c5a5a76e5" />
 
 
